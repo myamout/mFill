@@ -6,4 +6,4 @@
 ##TODO
 * Create basic filler functionality
 * Make settings tab
-* Style everything
+* Style all the things
