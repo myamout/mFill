@@ -7,3 +7,8 @@
 * Create basic filler functionality
 * Make settings tab
 * Style all the things
+
+##Bower Notes
+* To link Bootstrap and Angular use the following links
+* Bootstrap: bower_components/bootstrap/css/dist/bootstrap.min.css
+* Angular: bower_components/angular/angular.min.js

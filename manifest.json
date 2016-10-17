@@ -8,11 +8,15 @@
     "96": "icons/logo-96.png"
   },
   "permissions": [
-    "activeTab"
+    "activeTab",
+    "storage"
   ],
   "browser_action": {
     "default_icon": "icons/logo-32.png",
     "default_title": "mFill",
     "default_popup": "mFill/menu.html"
+  },
+  "options_ui": {
+    "page": "mFill/options.html"
   }
 }
